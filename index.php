@@ -1,5 +1,5 @@
 <?php
-
+	require __DIR__ . '/vendor/autoload.php';
 	
 	use Mpociot\BotMan\BotManFactory;
 	use Mpociot\BotMan\BotMan;
