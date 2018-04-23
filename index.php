@@ -27,6 +27,19 @@
 	// Start listening
 	$botman->listen();
 	
+	$botman->hears('call me {name}', function ($bot, $name) {
+		$bot->reply('Your name is: '.$name);
+	});
+	
+	$botman->hears('Hello BotMan!', function($bot) {
+    $bot->reply('Hello!');
+    $bot->ask('Whats your name?', function($answer, $bot) {
+			$bot->say('Welcome '.$answer->getText());
+		});
+	});
+
+	$botman->listen();
+	
 ?>
 
 
