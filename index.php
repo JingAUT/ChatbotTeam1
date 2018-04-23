@@ -8,7 +8,7 @@
 	 }
 	 echo "Saving data ...\n";
 	 $url = "http://localhost:5984/incoming";
-	 $meta = &#91;"received" => time(),
+	 $meta = ["received" => time(),
 		 "status" => "new",
 		 "agent" => $_SERVER['HTTP_USER_AGENT']];
 	 $options = ["http" => [
