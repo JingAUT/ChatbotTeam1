@@ -62,8 +62,6 @@
 	// Start listening
 	$botman->listen();
 	
-
-);
 	
 ?>
 
