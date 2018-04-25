@@ -1,4 +1,37 @@
-<?php
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Chat bot team 1</title>
+</head>
+<body>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId            : '889309814582765',
+          autoLogAppEvents : true,
+          xfbml            : true,
+          version          : 'v2.12'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "https://connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+    
+    <div class="fb-messengermessageus" 
+      messenger_app_id="889309814582765" 
+      page_id="980748105428133"
+      color="<blue | white>"
+      size="<standard | large | xlarge>">
+    </div>
+    
+    
+	<?php
 	require __DIR__ . '/vendor/autoload.php';
 	
 	use Mpociot\BotMan\BotManFactory;
@@ -41,5 +74,9 @@
 	$botman->listen();
 	
 ?>
+
+</body>
+</html>
+
 
 
