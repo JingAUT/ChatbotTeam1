@@ -23,12 +23,15 @@
        }(document, 'script', 'facebook-jssdk'));
     </script>
     
-    <div class="fb-messengermessageus" 
-      messenger_app_id="889309814582765" 
-      page_id="980748105428133"
-      color="<blue | white>"
-      size="<standard | large | xlarge>">
-    </div>
+    <h1>Course query system</h1>
+    <p>Contact us through Facebook Messenger: </p>
+    
+        <div class="fb-messengermessageus" 
+          messenger_app_id="889309814582765" 
+          page_id="980748105428133"
+          color="white"
+          size="large">
+        </div>
     
     
 	<?php
