@@ -77,6 +77,12 @@
 	$botman->listen();
 	
 ?>
+    
+    <iframe
+    width="350"
+    height="430"
+    src="https://console.dialogflow.com/api-client/demo/embedded/f0a15ccf-31f6-4105-9e47-08047a7ce001">
+    </iframe>
 
 </body>
 </html>
