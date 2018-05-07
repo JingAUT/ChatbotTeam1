@@ -30,20 +30,18 @@
           <h1><span style="font-family:'Gill Sans Ultra Bold Oblique', 'Gill Sans';font-weight:800;font-style:oblique;color:#FF9933;">Course&nbsp; Query</span><span style="font-family:'Arial Negreta', 'Arial Normal', 'Arial';font-weight:700;font-style:normal;">&nbsp; </span></h1>
         </div>
       </div>
-    
-    
-        <div class="fb-messengermessageus" 
-          messenger_app_id="889309814582765" 
-          page_id="980748105428133"
-          color="white"
-          size="large">
-        </div>  
     <iframe
     width="350"
     height="430"
     src="https://console.dialogflow.com/api-client/demo/embedded/f0a15ccf-31f6-4105-9e47-08047a7ce001">
     </iframe>
 <p>Please contact us through Messenger </p>
+    <div class="fb-messengermessageus" 
+          messenger_app_id="889309814582765" 
+          page_id="980748105428133"
+          color="white"
+          size="large">
+        </div>  
 </body>
 </html>
 
