@@ -1,10 +1,38 @@
+<!DOCTYPE html>
 <html>
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>Chat bot team 1</title>
-</head>
-<body>
-    <script>
+  <head>
+    <title>Chat bot team 1</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/home/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/home/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u0" class="ax_default heading_1">
+        <div id="u0_div" class=""></div>
+        <div id="u0_text" class="text ">
+          <p><span style="font-family:'Gill Sans Ultra Bold Oblique', 'Gill Sans';font-weight:800;font-style:oblique;color:#FF9933;">Course&nbsp; Query</span><span style="font-family:'Arial Negreta', 'Arial Normal', 'Arial';font-weight:700;font-style:normal;">&nbsp; </span></p>
+        </div>
+      </div>
+    </div>
+	    <script>
       window.fbAsyncInit = function() {
         FB.init({
           appId            : '889309814582765',
@@ -22,11 +50,7 @@
          fjs.parentNode.insertBefore(js, fjs);
        }(document, 'script', 'facebook-jssdk'));
     </script>
-    
-    <h1>Course query system</h1>
-    <p>Contact us through Facebook Messenger: </p>
-    
-        <div class="fb-messengermessageus" 
+     <div class="fb-messengermessageus" 
           messenger_app_id="889309814582765" 
           page_id="980748105428133"
           color="white"
@@ -83,9 +107,7 @@
     height="430"
     src="https://console.dialogflow.com/api-client/demo/embedded/f0a15ccf-31f6-4105-9e47-08047a7ce001">
     </iframe>
-
-</body>
+  </body>
 </html>
-
 
 
