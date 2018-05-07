@@ -30,7 +30,7 @@
           <p><span style="font-family:'Gill Sans Ultra Bold Oblique', 'Gill Sans';font-weight:800;font-style:oblique;color:#FF9933;">Course&nbsp; Query</span><span style="font-family:'Arial Negreta', 'Arial Normal', 'Arial';font-weight:700;font-style:normal;">&nbsp; </span></p>
         </div>
       </div>
-    <p>Contact us through Facebook Messenger: </p>
+    <p>Contact us through Messenger: </p>
     
         <div class="fb-messengermessageus" 
           messenger_app_id="889309814582765" 
