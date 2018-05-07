@@ -27,7 +27,7 @@
       <div id="u0" class="ax_default heading_1">
         <div id="u0_div" class=""></div>
         <div id="u0_text" class="text ">
-          <p><span style="font-family:'Gill Sans Ultra Bold Oblique', 'Gill Sans';font-weight:800;font-style:oblique;color:#FF9933;">Course&nbsp; Query</span><span style="font-family:'Arial Negreta', 'Arial Normal', 'Arial';font-weight:700;font-style:normal;">&nbsp; </span></p>
+          <h1><span style="font-family:'Gill Sans Ultra Bold Oblique', 'Gill Sans';font-weight:800;font-style:oblique;color:#FF9933;">Course&nbsp; Query</span><span style="font-family:'Arial Negreta', 'Arial Normal', 'Arial';font-weight:700;font-style:normal;">&nbsp; </span></h1>
         </div>
       </div>
     <p>Contact us through Messenger: </p>
@@ -37,53 +37,7 @@
           page_id="980748105428133"
           color="white"
           size="large">
-        </div>
-    
-    
-	<?php
-	require __DIR__ . '/vendor/autoload.php';
-	
-	use Mpociot\BotMan\BotManFactory;
-	use Mpociot\BotMan\BotMan;
-	use BotMan\BotMan\Drivers\DriverManager;
-
-	$config = [
-		'hipchat_urls'=>[
-			'YOUR-INTEGRATION-URL-1',
-			'YOUR-INTEGRATION-URL-2',
-		],
-		'facebook_token' => 'EAAMo0pOX7e0BAMzEG1LrKHRkb1LWPo2pO7wuB4lfyE1mNAKUzWhEMyHwGHCbeBSnaqIMjuxKJKlNGyoWWBcBEmaNqH0TT2PGJVprirJZCfUOSqjPRcHstqml5vS05jRTeFEM0WAp4RmBHJ6NvWVHemarIeGG6PcdMf8iZAjgZDZD',
-		'facebook_app_secret' => '48c0417c72d6ff6aa0ea81067b366a9f',	
-	];
-
-	// Create an instance
-	$botman = BotManFactory::create($config);
-
-	$botman -> verifyServices('skfgliwuehrqw342639o5345');
-	
-	// Give the bot something to listen for.
-	$botman->hears('hello', function (BotMan $bot) {
-		$bot->reply('Hello yourself.');
-	});
-
-	// Start listening
-	$botman->listen();
-	
-	$botman->hears('call me {name}', function ($bot, $name) {
-		$bot->reply('Your name is: '.$name);
-	});
-	
-	$botman->hears('Hello BotMan!', function($bot) {
-    $bot->reply('Hello!');
-    $bot->ask('Whats your name?', function($answer, $bot) {
-			$bot->say('Welcome '.$answer->getText());
-		});
-	});
-
-	$botman->listen();
-	
-?>
-    
+        </div>  
     <iframe
     width="350"
     height="430"
