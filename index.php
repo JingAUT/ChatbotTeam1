@@ -32,6 +32,7 @@
         </div>
       </div>
           </div>
+     </div>
     <iframe
     width="350"
     height="430"
