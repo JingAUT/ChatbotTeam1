@@ -27,9 +27,11 @@
       <div id="u0" class="ax_default heading_1">
         <div id="u0_div" class=""></div>
         <div id="u0_text" class="text ">
+            <div id="box">
           <h1><span style="font-family:'Gill Sans Ultra Bold Oblique', 'Gill Sans';font-weight:800;font-style:oblique;color:#FF9933;">Course&nbsp; Query</span><span style="font-family:'Arial Negreta', 'Arial Normal', 'Arial';font-weight:700;font-style:normal;">&nbsp; </span></h1>
         </div>
       </div>
+          </div>
     <iframe
     width="350"
     height="430"
