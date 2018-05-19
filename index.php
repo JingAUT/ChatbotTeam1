@@ -4,6 +4,9 @@
 <title>Chat bot team 1</title>
 </head>
 <body>
+    { font-family:Verdana; font-size:12px; margin:0 auto;}
+
+#container {margin: 0 auto; width:1060px;}
     <script>
       window.fbAsyncInit = function() {
         FB.init({
