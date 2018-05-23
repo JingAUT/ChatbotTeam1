@@ -1,0 +1,124 @@
+[
+    {
+        "value": "CI",
+        "synonyms": [
+            "CI"
+        ]
+    },
+    {
+        "value": "IT Service Science",
+        "synonyms": [
+            "IT Service Science"
+        ]
+    },
+    {
+        "value": "ITSS",
+        "synonyms": [
+            "ITSS"
+        ]
+    },
+    {
+        "value": "IT Service Science",
+        "synonyms": [
+            "COMP601 IT Service Provision",
+            "INFS603 Needs Analysis Acquisition&Training",
+            "COMP609 Network&System Administration / COMP607 Information Security Technologies",
+            "INFS701 IT Strategy and Control",
+            "INFS702 IT Service Management",
+            "COMP718 Information Security Management",
+            "INFS703 Contemporary Information Systems"
+        ]
+    },
+    {
+        "value": "CS",
+        "synonyms": [
+            "CS"
+        ]
+    },
+    {
+        "value": "Analytics",
+        "synonyms": [
+            "STAT600 Probability",
+            "STAT601 Statistical Methods",
+            "INFS601 Logical Database Design/STAT603 Forecasting",
+            "STAT702 Industrial&Business Analytics",
+            "STAT700 Applied Stochastic Models",
+            "COMP723 Data Mining&Knowledge Enigeering/STAT701 Statistical Computing with SAS"
+        ]
+    },
+    {
+        "value": "Computer Intelligence",
+        "synonyms": [
+            "COMP606 Foundations of Information Science",
+            "STAT601 Statistical Methods",
+            "COMP610 Data Structures&Algorithms/INFS602 Physical Database Design",
+            "COMP717 Artificial Intelligence",
+            "COMP723 Data Mining&Knowledge Engineering",
+            "COMP700 Text&Vision Intelligence/COMP701 Nature Inspired Computing"
+        ]
+    },
+    {
+        "value": "Analytics",
+        "synonyms": [
+            "Analytics"
+        ]
+    },
+    {
+        "value": "Software Development",
+        "synonyms": [
+            "COPM603 Program Design&Construction",
+            "COMP602 Software Development Practice",
+            "COMP604 Operating Systems / INFS602 Physical Database Design",
+            "ENSE701 Software Engineering",
+            "COMP719 Applied Human Computer Interaction",
+            "COMP721 Web Development / Comp713 Distributed&Mobile Systems"
+        ]
+    },
+    {
+        "value": "Computer Intelligence",
+        "synonyms": [
+            "Computer Intelligence"
+        ]
+    },
+    {
+        "value": "Software Development",
+        "synonyms": [
+            "Software Development"
+        ]
+    },
+    {
+        "value": "Computer Science",
+        "synonyms": [
+            "Computer Science",
+            "COMP610 DataStructures & Algorithms",
+            "COMP611 Algorithm Design & Analysis",
+            "COMP604 Operating Systems /COMP613 Logic&Discrete Structures",
+            "COMP711 Theory of Computation",
+            "COMP712 Programming Languages",
+            "COMP717 Artificial Intelligence/COMP713 Distributed&Mobile Systems"
+        ]
+    },
+    {
+        "value": "Network and Security",
+        "synonyms": [
+            "Network and Security"
+        ]
+    },
+    {
+        "value": "Network&Security",
+        "synonyms": [
+            "Network&Security"
+        ]
+    },
+    {
+        "value": "Networks&Security",
+        "synonyms": [
+            "ENEL611 Computer Network Applications-CCNA2",
+            "COMP609 Network&System Administration",
+            "COMP604 Operating Systems / INFS602 Physical Database Design",
+            "COMP714 Advanced Network Technologies-CCNP",
+            "COMP715 Network Security",
+            "COMP718 Information Security Management / COMP713 Distributed and Mobile Systems"
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+{
+  "responseId": "1bee97c8-6961-4034-bee3-feef86c56e4b",
+  "queryResult": {
+    "queryText": "software development",
+    "parameters": {
+      "SD": "Software Development"
+    },
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "The List of Software Development major: COPM603 Program Design&Construction; COMP602 Software Development Practice; COMP604 Operating Systems / INFS602 Physical Database Design; ENSE701 Software Engineering; COMP719 Applied Human Computer Interaction; COMP721 Web Development / Comp713 Distributed&Mobile Systems",
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "The List of Software Development major: COPM603 Program Design&Construction; COMP602 Software Development Practice; COMP604 Operating Systems / INFS602 Physical Database Design; ENSE701 Software Engineering; COMP719 Applied Human Computer Interaction; COMP721 Web Development / Comp713 Distributed&Mobile Systems"
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/course-query-system/agent/intents/b4faf316-fc8e-427c-95e7-16fbb7d42512",
+      "displayName": "paper list for Software Development major"
+    },
+    "intentDetectionConfidence": 1,
+    "diagnosticInfo": {},
+    "languageCode": "en"
+  }
+}

@@ -1,0 +1,99 @@
+[
+    {
+        "value": "COMP500 programming 1(S1 Both/S2 Both)",
+        "synonyms": [
+            "COMP500 programming 1",
+            "p1",
+            "Comp500"
+        ]
+    },
+    {
+        "value": "INFS602 Physical Database design(S1 South/S2 Both)",
+        "synonyms": [
+            "INFS601 Physical Database design",
+            "pdd",
+            "INFS601"
+        ]
+    },
+    {
+        "value": "COMP611 Algorithm Design and Analysis(S2 City)",
+        "synonyms": [
+            "COMP611 Algorithm Design and Analysis",
+            "comp611",
+            "algorithm design"
+        ]
+    },
+    {
+        "value": "COMP600 IT Project Management(S1 Both/S2 Both)",
+        "synonyms": [
+            "itpm",
+            "comp600"
+        ]
+    },
+    {
+        "value": "COMP602 Software Development Practice(S1 Both/S2 Both)",
+        "synonyms": [
+            "sdp",
+            "software development practice"
+        ]
+    },
+    {
+        "value": "COMP603 Program Design and construction(S1 Both/S2 Both)",
+        "synonyms": [
+            "comp603",
+            "pdc",
+            "p3"
+        ]
+    },
+    {
+        "value": "COMP604 Operating Systems(S1 Both/S2 South)",
+        "synonyms": [
+            "os",
+            "comp604"
+        ]
+    },
+    {
+        "value": "COMP719 Applied Human Computer Interaction(S1 Both/S2 Both)",
+        "synonyms": [
+            "hci",
+            "comp719"
+        ]
+    },
+    {
+        "value": "COMP721 Web Development(S1 Both)",
+        "synonyms": [
+            "web",
+            "comp721"
+        ]
+    },
+    {
+        "value": "COMP502 Foundation of IT Infrastruction(S1 Both/S2 Both)",
+        "synonyms": [
+            "it",
+            "comp502"
+        ]
+    },
+    {
+        "value": "COMP713 Distributed & Mobile Systems(S1 City/S2 Both)",
+        "synonyms": [
+            "comp713",
+            "mobile"
+        ]
+    },
+    {
+        "value": "COMP503 programming 2(S1 Both/S2 Both)",
+        "synonyms": [
+            "comp503 programming 2",
+            "p2",
+            "comp503"
+        ]
+    },
+    {
+        "value": "ENSE701 Software Engineering(S1 Both)",
+        "synonyms": [
+            "se",
+            "ense701",
+            "software engineering"
+        ]
+    }
+]

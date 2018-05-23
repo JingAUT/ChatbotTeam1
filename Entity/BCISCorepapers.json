@@ -1,0 +1,109 @@
+[
+    {
+        "value": "COMP503 Programming 2(S1 Both/S2 Both)",
+        "synonyms": [
+            "COMP503 Programming 2",
+            "COMP503",
+            "p2",
+            "programming 2"
+        ]
+    },
+    {
+        "value": "INFS601 Logical Database Design(S1 Both/S2 Both)",
+        "synonyms": [
+            "INFS601 Logical Database Design",
+            "INFS601",
+            "logical database"
+        ]
+    },
+    {
+        "value": "ENEL504 Computer Network Principles(S1 Both/S2 Both)",
+        "synonyms": [
+            "ENEL504 Computer Network Principles",
+            "CCNA1",
+            "ENEL504",
+            "ccna1"
+        ]
+    },
+    {
+        "value": "COMP600 IT Project Management(S1 Both/S2 Both)",
+        "synonyms": [
+            "COMP600 IT Project Management",
+            "COMP600",
+            "itpm"
+        ]
+    },
+    {
+        "value": "COMM501 Applied Communication (S1 Both/S2 Both)",
+        "synonyms": [
+            "COMM501 Applied Communication",
+            "COMM501",
+            "applied communication"
+        ]
+    },
+    {
+        "value": "COMP501 Computing Techonolgy in Society(S1 Both/S2 Both)",
+        "synonyms": [
+            "COMP501 Computing Techonolgy in Society",
+            "COMP501",
+            "computer technology in society"
+        ]
+    },
+    {
+        "value": "INFS600 Data & Process Modelling(S1 Both/S2 Both)",
+        "synonyms": [
+            "INFS600 Data & Process Modelling",
+            "INFS600",
+            "DPM",
+            "dpm"
+        ]
+    },
+    {
+        "value": "COMP500 Programming 1(S1 Both/S2 Both)",
+        "synonyms": [
+            "COMP500 Programming 1",
+            "COMP500",
+            "programming 1",
+            "p1"
+        ]
+    },
+    {
+        "value": "INFS500 Enterprise Systems(S1 Both/S2 Both)",
+        "synonyms": [
+            "INFS500 Enterprise Systems",
+            "INFS500",
+            "enterprise system",
+            "enterprise system"
+        ]
+    },
+    {
+        "value": "Mathematics Paper(S1 Both/S2 Both)",
+        "synonyms": [
+            "Mathematics Paper",
+            "STAT500 Applied Statistics",
+            "MATH501 Differential & Integral Calculus",
+            "MATH502 Algebra & Discrete Mathematics",
+            "MATH500 Mathematical Concepts",
+            "math"
+        ]
+    },
+    {
+        "value": "5 elective papers",
+        "synonyms": [
+            "5 elective papers"
+        ]
+    },
+    {
+        "value": "COMP502 Foundations of IT Infrastructure(S1 Both/S2 Both)",
+        "synonyms": [
+            "COMP502 Foundations of IT Infrastructure",
+            "COMP502",
+            "foundation of IT infrastructure",
+            "fiti"
+        ]
+    },
+    {
+        "value": "",
+        "synonyms": []
+    }
+]

@@ -1,0 +1,27 @@
+{
+  "responseId": "3faf6af7-9834-4cef-8f6b-bd217a961fcb",
+  "queryResult": {
+    "queryText": "what is the co-req paper for pdc",
+    "parameters": {
+      "p3": "COMP603 Program Design and Construction(S1 Both/S2 Both)"
+    },
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "The co-requisite paper for COMP603 Program Design and Construction(S1 Both/S2 Both) is INFS600 Data and Process Modelling.",
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "The co-requisite paper for COMP603 Program Design and Construction(S1 Both/S2 Both) is INFS600 Data and Process Modelling."
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/course-query-system/agent/intents/c6c245df-f0cf-44e3-9233-1b957d86faea",
+      "displayName": "co-req-pdc"
+    },
+    "intentDetectionConfidence": 1,
+    "diagnosticInfo": {},
+    "languageCode": "en"
+  }
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "value": "COMP721 Web Development(S1 Both)",
+        "synonyms": [
+            "COMP721 Web Development",
+            "COMP721",
+            "web development"
+        ]
+    },
+    {
+        "value": "COMP713 Distributed & Mobile Systems(S1 City/S2 Both)",
+        "synonyms": [
+            "COMP713 Distributed & Mobile Systems",
+            "COMP713",
+            "dms"
+        ]
+    },
+    {
+        "value": "COMP604 Operating System(S1 South/S2 Both)",
+        "synonyms": [
+            "INFS602 Physical Database Design",
+            "pdd",
+            "physical database design",
+            "INFS602"
+        ]
+    },
+    {
+        "value": "ENSE701 Software Engineering(S1 Both)",
+        "synonyms": [
+            "ENSE701 Software Engineering",
+            "ENSE701",
+            "software engineering"
+        ]
+    },
+    {
+        "value": "COMP719 Applied Human Computer Interaction(S1 Both/S2 Both)",
+        "synonyms": [
+            "COMP719 Applied Human Computer Interaction",
+            "COMP719",
+            "ahci",
+            "ACHI",
+            "Applied-HCI",
+            "applied human computer interaction"
+        ]
+    }
+]

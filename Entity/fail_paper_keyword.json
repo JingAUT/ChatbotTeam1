@@ -1,0 +1,20 @@
+[
+    {
+        "value": "did not pass",
+        "synonyms": [
+            "did not pass"
+        ]
+    },
+    {
+        "value": "fail",
+        "synonyms": [
+            "fail"
+        ]
+    },
+    {
+        "value": "didn't pass",
+        "synonyms": [
+            "didn't pass"
+        ]
+    }
+]

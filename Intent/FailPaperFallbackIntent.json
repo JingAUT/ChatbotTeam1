@@ -1,0 +1,29 @@
+{
+  "responseId": "b05f2e9d-5f71-4121-b5ef-f47019637333",
+  "queryResult": {
+    "queryText": "what paper I can't take if I fail math",
+    "parameters": {
+      "corepaper": "Mathematics Paper(S1 Both/S2 Both)",
+      "sdp": "",
+      "paper": ""
+    },
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "Mathematics Paper(S1 Both/S2 Both) is not a pre-requisite paper for any other papers but you have to pass it as a core paper for you degree.",
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "Mathematics Paper(S1 Both/S2 Both) is not a pre-requisite paper for any other papers but you have to pass it as a core paper for you degree."
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/course-query-system/agent/intents/7ca2ecf7-9656-4c8f-82d7-e8ea810e04f0",
+      "displayName": "fail_fallback"
+    },
+    "intentDetectionConfidence": 1,
+    "diagnosticInfo": {},
+    "languageCode": "en"
+  }
+}

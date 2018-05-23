@@ -1,0 +1,27 @@
+{
+  "responseId": "8d892c0d-11b3-4c18-a4a1-2d19db917301",
+  "queryResult": {
+    "queryText": "what is the pre-requisite paper for sdp",
+    "parameters": {
+      "pre_requisite_paper": "COMP602 Software Development Practice(S1 Both/S2 Both)"
+    },
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "The pre-requisite paper for COMP602 Software Development Practice(S1 Both/S2 Both) are COMP603 or COMP610.",
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "The pre-requisite paper for COMP602 Software Development Practice(S1 Both/S2 Both) are COMP603 or COMP610."
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/course-query-system/agent/intents/bb3c1839-1779-421e-862e-0426b8b7e7af",
+      "displayName": "pre-sdp"
+    },
+    "intentDetectionConfidence": 1,
+    "diagnosticInfo": {},
+    "languageCode": "en"
+  }
+}
