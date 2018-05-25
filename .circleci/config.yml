@@ -34,4 +34,12 @@ jobs:
           key: v1-dependencies-{{ checksum "composer.json" }}
         
       # run tests!
-      - run: phpunit
+     - run:
+          command: |
+            mkdir -p ~/phpunit
+            phpunit --log-junit ~/phpunit/junit.xml tests
+          when: always
+      - store_test_results:
+          path: ~/phpunit
+      - store_artifacts:
+          path: ~/phpunit 
